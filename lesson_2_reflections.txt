@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-When you initialize a repo it runs the git init and creates a .git folder which houses your commits when you make them.
+
+	- When you initialize a repo it runs the git init and creates a .git folder which houses your commits when you make them.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	- The staging area is separate from the working area and the repository. The staging area is like a secondary working area that allows you to prepare files for transfer to the repository.
+
