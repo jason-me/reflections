@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repo it runs the git init and creates a .git folder which houses your commits when you make them.
