@@ -7,7 +7,10 @@ How is the staging area different from the working directory and the repository?
 	- The staging area is separate from the working area and the repository. The staging area is like a secondary working area that allows you to prepare files for transfer to the repository.
 
 How can you use the staging area to make sure you have one commit per logical change?
-	-You can use ```git add [filename]``` to add files to the staging area before commit
+	- You can use ```git add [filename]``` to add files to the staging area before commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	-Braches help when you want to brnach out with a new untested feature and keep the original code so that you can revert ot merge later
+	- Braches help when you want to brnach out with a new untested feature and keep the original code so that you can revert ot merge later
+
+How do the diagrams help you visualize the branch structure?
+	- They help to understand the branching and how some commits are separate from each other.
