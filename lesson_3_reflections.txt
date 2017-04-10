@@ -1,1 +1,8 @@
 When would you want to create a remote repository vs. keeping all of your work local?
+	- Anytime you want to create a remote version you can pul from other computers and share
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	- You might not want to add those remote commits to a local version until they are complete
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	- Fork: copy another persons remote repository to your own, Clone: copy a remote or local repository locally, branch: create a new version of a repository for new features, etc.
